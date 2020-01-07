@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NearByRestaurant</string>
+    <string name="location">Enter Location</string>
+    <string name="hint_edt_restaurant">Sarch by Retaurant Name</string>
+</resources>
